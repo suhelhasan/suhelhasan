@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎:
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|**  
-📦 [npm][npm] **|** 
-👔 [linkedin][linkedin]
+🏡 [website][website] | 🐦 [twitter][twitter] | 📦 [npm][npm] | 👔 [linkedin][linkedin]
 
 [website]: https://suhelhasan.me/portfolio/
 [twitter]: https://twitter.com/javascript_bug
