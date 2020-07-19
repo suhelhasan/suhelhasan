@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning Data Structure & Algorithms
-- 👯 I’m looking to collaborate on creating content
-- 🤔 I’m looking for an Internship
-- 💬 Ask me about JavaScript & React
+- 🔭 Currently working on React.js
+- 🌱 Learning Data Structure & Algorithms
+- 🤔 Looking for an Internship
+- 💬 Ask me about **JavaScript** & **React.js**
 
 ## Find me around the web 🌎:
 
