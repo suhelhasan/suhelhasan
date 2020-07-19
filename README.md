@@ -1,4 +1,4 @@
-### Hi there, I'm Suhel 👋:boy:
+### Hi there, I'm Suhel 👋
 
 ## I'm a Student, who loves JavaScript :rocket:
 
