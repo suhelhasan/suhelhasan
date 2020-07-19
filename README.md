@@ -1,6 +1,6 @@
 ### Hi there, I'm Suhel 👋
 
-## I'm a Student, who loves JavaScript :rocket:
+## I'm a Student, who loves **JavaScript** :rocket:
 
 <!--
 **suhelhasan/suhelhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
