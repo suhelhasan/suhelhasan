@@ -8,7 +8,11 @@
 Here are some ideas to get you started:
 
 - 📫 How to reach me: ....
-[linkedin]: https://linkedin.com/in/suhelhasan11
+[linkedin]: https://linkedin.com/in/suhelhasan11 
+👔 [linkedin][linkedin]
+
+[website]: https://suhelhasan.me/portfolio/
+🏡 [website][website]
 -->
 
 - 🔭 Currently working on React.js
@@ -18,9 +22,9 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎:
 
-🏡 [website][website] | 🐦 [twitter][twitter] | 📦 [npm][npm] | 👔 [linkedin][linkedin]
+🐦 [twitter][twitter] | 📦 [npm][npm]
 
-[website]: https://suhelhasan.me/portfolio/
+
 [twitter]: https://twitter.com/javascript_bug
 [npm]: https://npmjs.com/~suhelhasan
 
