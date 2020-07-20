@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started:
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ....
+[linkedin]: https://linkedin.com/in/suhelhasan11
 -->
 
 - 🔭 Currently working on React.js
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 [website]: https://suhelhasan.me/portfolio/
 [twitter]: https://twitter.com/javascript_bug
 [npm]: https://npmjs.com/~suhelhasan
-[linkedin]: https://linkedin.com/in/suhelhasan11
+
