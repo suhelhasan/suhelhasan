@@ -1,12 +1,12 @@
 ### Hi there, I'm Suhel 👋
 
-## I'm a Student, who loves **JavaScript** :rocket:
-
+## I'm a Student, who loves **JavaScript** [![HitCount](http://hits.dwyl.com/suhelhasan/suhelhasan.svg)](http://hits.dwyl.com/suhelhasan/suhelhasan) 
+ 
 <!--
 **suhelhasan/suhelhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+:rocket:
 - 📫 How to reach me: ....
 [linkedin]: https://linkedin.com/in/suhelhasan11 
 👔 [linkedin][linkedin]
