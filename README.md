@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JavaScript** & **React.js**
 
 ## Key skills 💯
+JavaScript, React.js, HTML5, CSS3
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
   <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
