@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 ## I'm a Student, who loves **JavaScript** :rocket:  
  
 <!--
