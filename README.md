@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 Learning Data Structure & Algorithms
 - 💬 Ask me about **JavaScript** & **React.js**
 
-## Key skills
+## Key skills 💯
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
   <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-c40f2e" />
 </p>
 
-## Find me around the web 🌎:
+## Find me around the web 🌎
 
 🐦 [twitter][twitter] | 📦 [npm][npm]
 
