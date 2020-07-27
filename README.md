@@ -1,25 +1,13 @@
 ### Hi there 👋
 ## I'm a Student, who loves **JavaScript** :rocket:  
- 
-<!--
-**suhelhasan/suhelhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![HitCount](http://hits.dwyl.com/suhelhasan/suhelhasan.svg)](http://hits.dwyl.com/suhelhasan/suhelhasan)
-Here are some ideas to get you started:
 
-- 📫 How to reach me: ....
-[linkedin]: https://linkedin.com/in/suhelhasan11 
-👔 [linkedin][linkedin]
-
-[website]: https://suhelhasan.me/portfolio/
-🏡 [website][website]
--->
 
 - 🔭 Currently working on React.js
 - 🌱 Learning Data Structure & Algorithms
 - 💬 Ask me about **JavaScript** & **React.js**
 
 ## Key skills 💯
-`JavaScript` `React.js` `HTML5` `CSS3`
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
   <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
