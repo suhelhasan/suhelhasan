@@ -21,9 +21,9 @@
 
 ## Find me around the web 🌎
 
-🐦 [twitter][twitter] | 📦 [npm][npm]
+📦 [npm][npm]
 
 
-[twitter]: https://twitter.com/javascript_bug
+
 [npm]: https://npmjs.com/~suhelhasan
 
