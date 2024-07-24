@@ -3,7 +3,6 @@
 
 
 - 🔭 Currently working on React.js
-- 🌱 Learning Data Structure & Algorithms
 - 💬 Ask me about **JavaScript** & **React.js**
 
 ## Key skills 💯
