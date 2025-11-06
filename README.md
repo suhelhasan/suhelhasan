@@ -9,7 +9,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
-  <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
+  <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" />
+  <img src="https://img.shields.io/badge/NextJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-c40f2e" />
   <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
   <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
   <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-5fedff" />
